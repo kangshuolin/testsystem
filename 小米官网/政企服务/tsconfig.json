@@ -1,0 +1,80 @@
+[{
+  "id":1,
+  "image":"img2/img1.jpg",
+  "title":"小米8 青春版 4GB+64GB",
+  "price":1233,
+  "time":"2018-1-2",
+  "hot":100
+},
+  {
+    "id":2,
+    "image":"img2/img2.png",
+    "title":"小米8 屏幕指纹版 8GB+128GB",
+    "price":1222,
+    "time":"2018-6-2",
+    "hot":120
+  },
+  {
+    "id":3,
+    "image":"img2/img3.jpg",
+    "title":"小米8 SE 4GB+64GB",
+    "price":1988,
+    "time":"2018-9-2",
+    "hot":130
+  },
+  {
+    "id":4,
+    "image":"img2/img4.jpg",
+    "title":"小米MIX 2S 8GB+256GB",
+    "price":1766,
+    "time":"2018-4-2",
+    "hot":30
+  },
+  {
+    "id":5,
+    "image":"img2/img5.jpg",
+    "title":"小米6X 4GB+32GB",
+    "price":1263,
+    "time":"2018-3-2",
+    "hot":500
+  },
+  {
+    "id":6,
+    "image":"img2/img6.jpg",
+    "title":"小米Max 2 4GB+64GB",
+    "price":1099,
+    "time":"2018-5-2",
+    "hot":190
+  },
+  {
+    "id":7,
+    "image":"img2/img7.jpg",
+    "title":"小米MIX 2 全陶瓷尊享版",
+    "price":1039,
+    "time":"2018-7-2",
+    "hot":700
+  },
+  {
+    "id":8,
+    "image":"img2/img8.jpg",
+    "title":"红米S2 3GB+32GB",
+    "price":1839,
+    "time":"2018-8-2",
+    "hot":80
+  },
+  {
+    "id":9,
+    "image":"img2/img9.jpg",
+    "title":"  小米 8 屏幕指纹版",
+    "price":1939,
+    "time":"2018-2-2",
+    "hot":200
+  },
+  {
+    "id":10,
+    "image":"img2/img10.jpg",
+    "title":"小米8 标准钢化玻璃膜",
+    "price":1123,
+    "time":"2018-2-2",
+    "hot":300
+  }]
